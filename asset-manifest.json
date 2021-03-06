@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Data-Table-using-Material-UI/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Data-Table-using-Material-UI/static/js/main.1d742afc.chunk.js",
+    "main.js.map": "/Data-Table-using-Material-UI/static/js/main.1d742afc.chunk.js.map",
+    "runtime-main.js": "/Data-Table-using-Material-UI/static/js/runtime-main.cfa96db3.js",
+    "runtime-main.js.map": "/Data-Table-using-Material-UI/static/js/runtime-main.cfa96db3.js.map",
+    "static/js/2.a0ab9dd2.chunk.js": "/Data-Table-using-Material-UI/static/js/2.a0ab9dd2.chunk.js",
+    "static/js/2.a0ab9dd2.chunk.js.map": "/Data-Table-using-Material-UI/static/js/2.a0ab9dd2.chunk.js.map",
+    "static/js/3.5748a3aa.chunk.js": "/Data-Table-using-Material-UI/static/js/3.5748a3aa.chunk.js",
+    "static/js/3.5748a3aa.chunk.js.map": "/Data-Table-using-Material-UI/static/js/3.5748a3aa.chunk.js.map",
+    "index.html": "/Data-Table-using-Material-UI/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Data-Table-using-Material-UI/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.a0ab9dd2.chunk.js.LICENSE.txt": "/Data-Table-using-Material-UI/static/js/2.a0ab9dd2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Data-Table-using-Material-UI/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfa96db3.js",
+    "static/js/2.a0ab9dd2.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1d742afc.chunk.js"
+  ]
+}
